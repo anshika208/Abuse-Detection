@@ -7,3 +7,9 @@ the tweets obtained are first cleaned by removing stopwords , punctuations , spe
 # model creation
 bag of words and tfidf were used to convert data into machine readable form. bag of words and tfidf were then fed on logistic regression , naive bayes , random forest classifiers .
 for devanagiri tweets two methods of cleaning and training were used. one is in hindi_cleandata and in other files devanagiri tweets are converted first into english and then cleaned and trained.
+
+
+
+CONTRIBUTERS
+1. ANSHIKA SRIVASTAVA
+2. ANUSHKA CHITRANSHI
