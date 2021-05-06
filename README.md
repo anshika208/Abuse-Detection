@@ -11,5 +11,5 @@ for devanagiri tweets two methods of cleaning and training were used. one is in 
 
 
 CONTRIBUTORS
-1. @anshika208
-2. @codebuzzer01 
+1.Anshika Srivastava 
+2. Anushka Chitranshi
