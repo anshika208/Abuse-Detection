@@ -10,6 +10,6 @@ for devanagiri tweets two methods of cleaning and training were used. one is in 
 
 
 
-CONTRIBUTERS
-1. ANSHIKA SRIVASTAVA
-2. ANUSHKA CHITRANSHI
+CONTRIBUTORS
+1. @anshika208
+2. @codebuzzer01 
